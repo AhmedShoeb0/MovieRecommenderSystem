@@ -3,7 +3,7 @@ About project:
 1. A simple movie recommender system implemented using python.
 2. This recommender system uses two main approaches to make recommendations:  
    - Content-based algorithm.
-   - ollaborative filtering algorithm (User-based).
+   - Collaborative filtering algorithm (User-based).
 
 Features:
 -
